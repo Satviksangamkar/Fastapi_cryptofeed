@@ -10,16 +10,10 @@ Welcome to **FastAPI Cryptofeed**, a robust and scalable project designed to fet
 - **Modular Structure**: Organized codebase with separate modules for routes, feed handling, and configuration.
 - **Easy Setup**: Simple instructions to get you up and running quickly.
 
-## 📦 Installation
-
-### Prerequisites
-
-- Python 3.7+
-- MongoDB (local or cloud instance)
-- Git
 
 
-# 📁 Directory Structure
+
+## 📁 Directory Structure
 
 Below is the project layout rendered as a plain-text tree.  
 
